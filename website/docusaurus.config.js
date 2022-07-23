@@ -34,8 +34,7 @@ module.exports = {
           path: "../docs",
           // Sidebars file relative to website dir.
           sidebarPath: require.resolve("./sidebars.json"),
-          editUrl:
-            "https://github.com/typescript-cheatsheets/react/tree/main/docs",
+          editUrl: "https://github.com/skarthikeyan96/react/tree/main/docs",
         },
         // ...
       },
